@@ -9,3 +9,5 @@ My name is Philip and I am a second year student at Concordia University (Montre
 
 ## Contact me  💬
 Thank you for taking the time to check out my profile! Feel free to explore my repositories and projects, and don't hesitate to reach out if you have any questions or suggestions
+philipcarlssoncoulombe@gmail.com
+https://www.linkedin.com/in/philipcarlssoncoulombe/
