@@ -2,7 +2,7 @@
 My name is Philip and I am a fourth year student at Concordia University (Montreal, Canada) currently pursuing a BEng. in Computer Engineering.
 
 ## Work Experience
-- Commercial Analyst Intern at Air Canada , September - December 2022 [4 Months]
+- Commercial Analyst Intern at Air Canada, September - December 2022 [4 Months]
 - FPGA Testing & Validation Specialist at Matrox, January - August 2024 [8 Months]
 
 ## Interests
