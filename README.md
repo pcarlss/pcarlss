@@ -1,15 +1,23 @@
-## Welcome to My GitHub Profile 👋
-My name is Philip and I am a fourth year student at Concordia University (Montreal, Canada) currently pursuing a BEng. in Computer Engineering.
+## 👋 Welcome to My GitHub Profile
 
-## Work Experience
-- Commercial Analyst Intern at Air Canada, September - December 2022 [4 Months]
-- FPGA Testing & Validation Specialist at Matrox, January - August 2024 [8 Months]
+Hi, I'm **Philip** — a 23-year-old Computer Engineering graduate from **Concordia University** (Montreal, Canada), with a strong passion for both hardware and software.
 
-## Interests
-- I am passionate about computers, hardware, full-stack development, and everything related to these fields.
-- CPU/GPU development  because it combines my passion for technology and innovation, allowing be to delve into the intricacies of hardware architecture and computational power.
+## 💼 Work Experience
+
+- ✈️ **Commercial Analyst Intern** @ Air Canada  
+  _September – December 2022 (4 months)_
+
+- 🔧 **FPGA Testing & Validation Specialist** @ Matrox  
+  _January – August 2024 (8 months)_
+
+## 🔥 Passions & Interests
+
+- I’m deeply passionate about computers, hardware, full-stack development, and everything in between.
+- I love working on personal projects that combine **hardware and software** — from building circuits and embedded systems to writing full-stack apps and automation tools.
+- I’m especially fascinated by **CPU/GPU development**, where I get to explore the complexity of hardware architecture and the raw power of computation.
 
 ## Contact me  💬
+
 Thank you for taking the time to check out my profile! Feel free to explore my repositories and projects, and don't hesitate to reach out if you have any questions or suggestions.
 - Email: philipcarlssoncoulombe@gmail.com 
 - LinkedIn: https://www.linkedin.com/in/philipcarlssoncoulombe/
