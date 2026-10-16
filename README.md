@@ -1,23 +1,28 @@
 ## 👋 Welcome to My GitHub Profile
 
-Hi, I'm **Philip** — a 23-year-old Computer Engineering graduate from **Concordia University** (Montreal, Canada), with a strong passion for both hardware and software.
+Hi, I'm **Philip** — a Computer Engineering graduate from **Concordia University** (Montreal, Canada), passionate about hardware, cloud infrastructure, and software engineering.
 
 ## 💼 Work Experience
 
-- ✈️ **Commercial Analyst Intern** @ Air Canada  
-  _September – December 2022 (4 months)_
+- 📡 **Integration Engineer** @ Ericsson Canada  
+  _July 2025 – Present_  
+  * Working on 5G cloud-native telecom solutions and containerized infrastructure using Kubernetes.
 
 - 🔧 **FPGA Testing & Validation Specialist** @ Matrox  
   _January – August 2024 (8 months)_
 
+- ✈️ **Commercial Analyst Intern** @ Air Canada  
+  _September – December 2022 (4 months)_
+
 ## 🔥 Passions & Interests
 
-- I’m deeply passionate about computers, hardware, full-stack development, and everything in between.
-- I love working on personal projects that combine **hardware and software** — from building circuits and embedded systems to writing full-stack apps and automation tools.
-- I’m especially fascinated by **CPU/GPU development**, where I get to explore the complexity of hardware architecture and the raw power of computation.
+- I’m deeply passionate about cloud-native technologies, telecommunications, full-stack development, and embedded systems.
+- I love working on personal projects that bridge **hardware and software** — from building circuits and microcontrollers to writing full-stack apps and deployment tools.
+- I’m especially fascinated by **CPU/GPU development** and hardware architecture, exploring the boundary where physical hardware meets high-performance computation.
 
-## Contact me  💬
+## 💬 Let's Connect
 
-Thank you for taking the time to check out my profile! Feel free to explore my repositories and projects, and don't hesitate to reach out if you have any questions or suggestions.
-- Email: philipcarlssoncoulombe@gmail.com 
-- LinkedIn: https://www.linkedin.com/in/philipcarlssoncoulombe/
+Thank you for taking the time to check out my profile! Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas.
+
+- **Email:** philipcarlssoncoulombe@gmail.com  
+- **LinkedIn:** [philipcarlssoncoulombe](https://www.linkedin.com/in/philipcarlssoncoulombe/)
